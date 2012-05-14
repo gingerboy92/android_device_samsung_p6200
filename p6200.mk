@@ -32,3 +32,13 @@ PRODUCT_DEVICE := p6200
 PRODUCT_BRAND := samsung
 PRODUCT_MANUFACTURER := samsung
 PRODUCT_MODEL := GT-P6200
+
+# Camera
+PRODUCT_PACKAGES := \
+	HoloSpiralWallpaper \
+	LiveWallpapersPicker \
+	VisualizationWallpapers \
+
+PRODUCT_PACKAGES += \
+    	Camera
+
