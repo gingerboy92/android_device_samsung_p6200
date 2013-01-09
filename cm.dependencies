@@ -9,8 +9,7 @@
     },
     {
         "repository": "android_hardware_samsung",
-        "target_path": "hardware/samsung",
-        "branch": "mr1-staging"
+        "target_path": "hardware/samsung"
     },
     {
         "repository": "android_kernel_samsung_smdk4210",
@@ -18,7 +17,6 @@
     },
     {
         "repository": "android_packages_apps_SamsungServiceMode",
-        "target_path": "packages/apps/SamsungServiceMode",
-        "branch": "mr1-staging"
+        "target_path": "packages/apps/SamsungServiceMode"
     }
 ]
